@@ -1,1 +1,2 @@
 Isi file 4.txt
+Tambahan paragraf
